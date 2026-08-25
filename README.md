@@ -40,7 +40,7 @@ pip install torch torchvision onnx onnxruntime numpy
 1. 克隆仓库：
 
 ```bash
-git clone https://github.com/Answer551/pytorch-mnist-onnx
+git clone: https://github.com/Answer551/pytorch-mnist-onnx
 cd pytorch-mnist-onnx
 ```
 
